@@ -1,6 +1,10 @@
-# Hello! Eu sou o Bruno Justo 👨‍💻
+# Hello! Eu sou o Bruno Justo 👋
 
-### Hello world 👋 welcome to my profile
+### welcome to my profile 👨‍💻
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-justo2002/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunojusto.bj6@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
 <!--
 **BrunoJusto2002/BrunoJusto2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
