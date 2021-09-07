@@ -1,4 +1,4 @@
-# Bruno Justo 👨‍💻
+# Hello! Eu sou o Bruno Justo 👨‍💻
 
 ### Hello world 👋 welcome to my profile
 
