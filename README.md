@@ -1,6 +1,6 @@
 # Bruno Justo 👨‍💻
 
-### Hello world 👋  welcome to my profile
+### Hello world 👋 welcome to my profile
 
 <!--
 **BrunoJusto2002/BrunoJusto2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
