@@ -9,6 +9,12 @@
 
 ![BrunoJusto2002 GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoJusto2002&show_icons=true&theme=radical&count_private=true)
 
+## Tecnologias que eu utilizo
+
+<div style="display: inline_block"><br/>
+  <img aling="center" alt="html5" src=""stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css"" />
+</div>
+
 <!--
 **BrunoJusto2002/BrunoJusto2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
