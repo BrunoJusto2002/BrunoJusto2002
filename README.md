@@ -7,7 +7,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?phone=5551985009634)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](mailto:BrunoJusto2002#5467)
 
-![BrunoJusto2002 GitHub stats](https://github-readme-stats.vercel.app/api?username=devBruno&show_icons=true&theme=radical&count_private=true)
+![BrunoJusto2002 GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoJusto2002&show_icons=true&theme=radical&count_private=true)
 
 <!--
 **BrunoJusto2002/BrunoJusto2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
