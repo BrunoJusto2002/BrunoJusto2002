@@ -1,4 +1,4 @@
-# Hello! Eu sou o Bruno Justo 👋
+# Hello pequeno gafanhoto! Eu sou o Bruno Justo 👋
 
 <h5> Estudante do Curso da Ciência da Computação. <h5>
 
