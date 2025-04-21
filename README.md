@@ -1,12 +1,23 @@
-# Hello pequeno gafanhoto! Eu sou o Bruno Justo 👋
+👨‍💻 Oi, eu sou o Bruno!
+Cub gaúcho apaixonado por programação, front-end e web design! 💻📱
+Entre café e códigos, minha mente criativa está sempre em constante evolução — mesmo com as acelerações que o TDAH, o autismo leve e a ansiedade trazem. Mas isso só me faz único. 🧠💙
 
-<h5> Estudante do Curso da Ciência da Computação. <h5>
+🚀 Tecnologias que amo:
+Front-end: React, HTML, CSS, JavaScript
 
-<h4> welcome to my profile 👨‍💻 <h4>
+Web Design: Figma, UI/UX, Design Responsivo
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-justo2002/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunojusto.bj6@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?phone=5551985009634)
+Outras paixões: IoT, Inteligência Artificial, Machine Learning, GitHub
+
+📚 O que estou aprendendo agora:
+Aperfeiçoando meu código em JavaScript e React.
+
+Criando projetos de IoT no meu GitHub.
+
+☕ O que me move:
+Muito café, boa música e a certeza de que cada linha de código é uma nova aventura.
+
+
  
  <h4> Linguagens que eu estou estudando 📚 📝 <h4>
 
