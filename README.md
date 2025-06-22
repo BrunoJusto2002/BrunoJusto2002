@@ -19,6 +19,7 @@ Muito **café**, boa música e a certeza de que **cada linha de código** é uma
   <img align="center" alt="BrunoJusto2002-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="BrunoJusto2002-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="BrunoJusto2002-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="BrunoJusto2002-CSS" height="30" width="40" src="https:file:///C:/Users/Bruno%20Justo/Downloads/icons8-c-programming.svg">
 </div> <br/> 
  
  <div>
