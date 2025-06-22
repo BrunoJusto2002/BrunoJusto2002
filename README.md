@@ -1,7 +1,7 @@
 # 👨‍💻 Hellow World, eu sou o Bruno!
 
 Cub gaúcho apaixonado por **programação**, **front-end** e **web design**! 💻📱  
-Entre café e códigos, minha mente criativa está sempre em constante evolução — mesmo com as acelerações que o **TDAH**, o **autismo leve** e a **ansiedade** trazem. Mas isso só me faz **único**. 🧠💙
+Entre café e códigos, minha mente criativa está sempre em constante evolução, mesmo com as acelerações que o **TDAH**, o **autismo leve** e a **ansiedade** trazem. Mas isso só me faz **único**. 🧠💙
 
 ## 🚀 Tecnologias que amo:
 - **Front-end**: HTML, CSS, JavaScript
