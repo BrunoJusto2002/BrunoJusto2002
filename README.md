@@ -1,15 +1,26 @@
 # 👨‍💻 Hellow World, eu sou o Bruno!
 
-Cub gaúcho apaixonado por **programação**, **front-end** e **web design**! 💻📱  
-Entre café e códigos, minha mente criativa está sempre em constante evolução, mesmo com as acelerações que o **TDAH**, o **autismo leve**, **TOC** e a **ansiedade** trazem. Mas isso só me faz **único**. 🧠💙
+Estudante de Ciência da Computação com foco em **desenvolvimento front-end**. Tenho interesse na criação de interfaces web e mobile modernas, responsivas e com boa **experiência do usuário (UX)**.
 
-## 🚀 Tecnologias que amo:
-- **Front-end**: HTML, CSS, JavaScript
-- **Web Design**: Figma, UI/UX, Design Responsivo
-- **Outras paixões**: IoT, Inteligência Artificial, Machine Learning
+---
 
-## ☕ O que me move:
-Muito **café**, boa música e a certeza de que **cada linha de código** é uma nova aventura.
+## 🚀 Tecnologias
+
+- HTML, CSS, JavaScript, Flutter
+- Git e GitHub
+- Noções de UI/UX
+
+---
+
+## 💻 Projetos
+
+Atualmente desenvolvendo **projetos práticos** para aprimorar minhas habilidades e construir um **portfólio sólido**.
+
+---
+
+## 📌 Objetivo
+
+Buscando **oportunidade de estágio** na área de desenvolvimento front-end.
 
 
  
@@ -19,8 +30,7 @@ Muito **café**, boa música e a certeza de que **cada linha de código** é uma
   <img align="center" alt="BrunoJusto2002-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="BrunoJusto2002-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="BrunoJusto2002-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="BrunoJusto2002-CSS" height="40" width="40" src="https://img.icons8.com/color/48/c-programming.png">
-</div> <br/> 
+ <img align="center" alt="BrunoJusto2002-Flutter" height="40" width="40" src="https://img.icons8.com/color/48/flutter.png" />
  
  <div>
   <a href="https://github.com/BrunoJusto2002">
