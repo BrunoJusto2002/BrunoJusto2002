@@ -23,5 +23,5 @@ Atualmente desenvolvendo **projetos práticos** para aprimorar minhas habilidade
 Buscando **oportunidade de estágio** na área de desenvolvimento front-end.
 
  <div>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoJusto2002&layout=compact&langs_count=7&theme=radical"/> 
+  <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoJusto2002&layout=compact&langs_count=7&theme=radical"/> 
  </div>
